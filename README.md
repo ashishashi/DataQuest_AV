@@ -1,4 +1,5 @@
 
+
 #DataQuest_AV
 
 ##Problem
@@ -11,18 +12,18 @@ PYTHON As usual, we will first download our datasets locally, and then we will l
 
 ##Libraries used :
 
-1)library(pandas) #to read .csv file
+1)library(pandas) to read .csv file
 
-2)library(sklearn) #for train_test_split, LabelEncoder and evaluation metrics
+2)library(sklearn) for train_test_split, LabelEncoder and evaluation metrics
 
-3)library(matplotlib) #for data visualisation
+3)library(matplotlib) for data visualisation
 
-4)library(xgboost) #for applying XGboost
+4)library(xgboost) for applying XGboost
 
-5)library(imblearn) #for applying SMOTE, Oversampling and UnderSampling
+5)library(imblearn) for applying SMOTE, Oversampling and UnderSampling
 
-6)library(sklearn.Tree) #for Decision Tree
+6)library(sklearn.Tree) for Decision Tree
 
-7)library(e1071)#for SVM
+7)library(e1071) for SVM
 
-8)library(keras) #for building neural network model and training
+8)library(keras) for building neural network model and training
