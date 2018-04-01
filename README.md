@@ -1,3 +1,7 @@
+#DataQuest_AV
+
+##Problem
+
 Road transport in India is one of the most frequently used means of transport for a common man. Each year the number of vehicles on the road keeps increasing, but with that comes the risk of road-accidents and fatalities. In 2017 alone, almost 1.5 lakh people were killed in road accidents across the country.In this dataset, you have been provided with the details of road accidents in Dehradun District of Uttarakhand State.In particulr we ask you to apply machine learning tools to predict the criticality of the accident(0 or 1).The evaluation metric for this competition is AUC ROC score.
 
 
@@ -10,7 +14,7 @@ PYTHON As usual,
 we will first download our datasets locally, and then we will load them into data frames in both, python.The dataset has been uploaded alongwith the code file.In Python, we use pd.read_csv to read CSV files into pandas data.frame variables. 
 
 
-###Libraries used : 
+##Libraries used : 
 
 1)library(pandas) #to read .csv file
 
